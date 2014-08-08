@@ -1,0 +1,1 @@
+If code reads from INI files, have a backup file available since the INI VIs read/write entire file and unexpected restarts can corrupt or lose a lot of the file.
